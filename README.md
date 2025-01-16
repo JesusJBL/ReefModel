@@ -1,1 +1,1 @@
-Code made to develop a transfer learning model using MobileNet as a base that is able to detect coral reef health accurately.
+Code made to develop a transfer learning model using MobileNet as a base that is able to detect coral reef health accurately. Part of my Honor's Capstone at Bentley University.
